@@ -7,3 +7,5 @@
 ```4. Open Sans``` [`Download`](https://fonts.google.com/specimen/Open+Sans?query=open+sans)
 
 ```5. Fira Code``` [`Download`](https://fonts.google.com/specimen/Fira+Code?query=fira+code)
+
+```6. Roboto Slab``` [`Download`](https://fonts.google.com/specimen/Roboto+Slab?query=roboto)
