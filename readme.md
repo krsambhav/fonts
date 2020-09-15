@@ -9,3 +9,5 @@
 ```5. Fira Code``` [`Download`](https://fonts.google.com/specimen/Fira+Code?query=fira+code)
 
 ```6. Roboto Slab``` [`Download`](https://fonts.google.com/specimen/Roboto+Slab?query=roboto)
+
+```7. Monolith``` [`Download`](https://drive.google.com/file/d/1T1vX6zZkHnRpxIymYh8pygEnJhTpvzpi/view?usp=sharing)
