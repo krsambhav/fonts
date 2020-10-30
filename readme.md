@@ -15,3 +15,5 @@
 ```8. IBM Plex Sans``` [`Download`](https://fonts.google.com/specimen/IBM+Plex+Sans)
 
 ```9. Trebuchet MS``` [`Download`](https://drive.google.com/file/d/1vOfiYqZHscbyfxK7QNwstVEL5i46N7AA/view?usp=sharing)
+
+```10. Gentium Basic``` [`Download`](https://fonts.google.com/specimen/Gentium+Basic)
