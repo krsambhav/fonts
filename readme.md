@@ -19,3 +19,5 @@
 ```10. Gentium Basic``` [`Download`](https://fonts.google.com/specimen/Gentium+Basic)
 
 ```11. Armata``` [`Download`](https://fonts.google.com/specimen/Armata)
+
+```12. Titillium Web``` [`Download`](https://fonts.google.com/specimen/Titillium+Web)
