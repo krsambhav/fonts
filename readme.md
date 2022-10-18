@@ -26,4 +26,4 @@
 
 ```14. Sorts Mill Goudy``` 
 
-```15. Google Sans CDN``` [`CDN`](https://cdn.jsdelivr.net/gh/mortezaom/google-sans-cdn@master/fonts.css)
+```15. Google Sans``` [`CDN`](https://cdn.jsdelivr.net/gh/mortezaom/google-sans-cdn@master/fonts.css)
