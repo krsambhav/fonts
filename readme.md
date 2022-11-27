@@ -31,3 +31,5 @@
 ```16. Averta``` [`Download`](https://drive.google.com/file/d/1ftiy_wlY8RdYS-P4fuhi4O6bu5eCO9NM/view?usp=share_link)
 
 ```15. Mont``` [`Download`](https://drive.google.com/file/d/19QhUprRgTUZaGs8rakNTK8byb6Bk_UL4/view?usp=share_link)
+
+```16. Alegreya``` [`Download`](https://fonts.google.com/specimen/Alegreya)
