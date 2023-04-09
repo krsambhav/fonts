@@ -24,7 +24,7 @@
 
 ```13. Source Sans Pro``` [`Download`](https://fonts.google.com/specimen/Source+Sans+Pro)
 
-```14. Sorts Mill Goudy``` 
+```14. Sorts Mill Goudy```  [`Download`](https://fonts.google.com/specimen/Sorts+Mill+Goudy)
 
 ```15. Google Sans``` [`CDN`](https://cdn.jsdelivr.net/gh/mortezaom/google-sans-cdn@master/fonts.css)
 
