@@ -33,3 +33,5 @@
 ```15. Mont``` [`Download`](https://drive.google.com/file/d/19QhUprRgTUZaGs8rakNTK8byb6Bk_UL4/view?usp=share_link)
 
 ```16. Alegreya``` [`Download`](https://fonts.google.com/specimen/Alegreya)
+
+```17. Jakarta Sans``` [`Download`](https://fonts.google.com/specimen/Plus+Jakarta+Sans)
